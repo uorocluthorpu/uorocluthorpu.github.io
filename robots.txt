@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thebest.xosam.de/sitemap.html
+Sitemap: https://thebest.xosam.de/app/sitemap.html
+Sitemap: https://thebest.xosam.de/assets/sitemap.html
+Sitemap: https://thebest.xosam.de/css/sitemap.html
+Sitemap: https://thebest.xosam.de/includes/sitemap.html
+Sitemap: https://thebest.xosam.de/item/sitemap.html
+Sitemap: https://thebest.xosam.de/src/sitemap.html
